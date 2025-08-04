@@ -12,3 +12,5 @@ Another remote commit was made that i want to fetch to my local repository and p
 I have no idea what the heck I am doing rn but I was told to make changes to this read me file, so here I am. This definitely counts as change... I think so.
 
 LoL, I understamd this now.
+
+Trying out commit note rn.
