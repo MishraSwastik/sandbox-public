@@ -8,3 +8,5 @@ Make changes with the Web IDE!
 
 Another remote commit was made that i want to fetch to my local repository and pull if there are no conflicts. And now I've edited this file on the `main`-branch.**I add some text to the same line but now on `main`, will this give me a conflict?**
 **I've added some text to this line now from the branch `conflicting-instructions'**
+
+I have no idea what the heck I am doing rn but I was told to make changes to this read me file, so here I am. This definitely counts as change... I think so.
